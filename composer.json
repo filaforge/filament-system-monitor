@@ -1,6 +1,6 @@
 {
     "name": "filament/system-monitor",
-  "version": "0.1.0",
+  "version": "0.1.2",
     "description": "System monitor plugin widgets for Filament v4",
     "type": "library",
     "license": "MIT",
